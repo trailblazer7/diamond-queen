@@ -1,5 +1,11 @@
 # Diamond Queen
 
+## Overview
+
+Simplified MVP-style web application that utilizes React, TypeScript, Next.js, Next Auth, Tailwind CSS, Zustand
+
+The deployed version can be found at [`diamond-queen.vercel.app`](https://diamond-queen.vercel.app/)
+
 ## Getting Started
 
 ### 1. Clone the repository:

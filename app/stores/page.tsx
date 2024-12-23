@@ -7,8 +7,6 @@ export default async function Games() {
   );
   const { results: stores } = await response.json();
 
-  console.log(stores);
-
   return (
     <>
       <Container className="mt-6">
