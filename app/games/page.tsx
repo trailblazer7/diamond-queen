@@ -25,6 +25,7 @@ export default async function Games() {
                 name={name}
                 imageUrl={background_image}
                 released={dateFormatter(released)}
+                className="min-h-[200px]"
               />
             );
           })}

@@ -30,7 +30,12 @@ const StoreCard: React.FC<Props> = ({
             width={0}
             height={0}
             sizes="100vw"
-            style={{ width: '100%', height: 'auto' }}
+            style={{
+              width: '100%',
+              height: 'auto',
+              minHeight: '200px',
+              objectFit: 'cover',
+            }}
             alt="Game Card"
             src={imageUrl}
           />

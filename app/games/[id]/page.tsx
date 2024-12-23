@@ -23,7 +23,11 @@ export default async function Game({
           width={0}
           height={0}
           sizes="100vw"
-          style={{ width: '100%', height: 'auto' }}
+          style={{
+            width: '100%',
+            height: '350px',
+            objectFit: 'cover',
+          }}
           alt="Game Card"
           src={background_image}
         />
