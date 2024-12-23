@@ -30,6 +30,7 @@ export default async function Game({
           }}
           alt="Game Card"
           src={background_image}
+          priority
         />
         <div className="flex mt-6">{description}</div>
       </Container>

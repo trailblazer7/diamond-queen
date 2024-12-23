@@ -29,7 +29,7 @@ const StoreCard: React.FC<Props> = ({
           <Image
             width={0}
             height={0}
-            sizes="100vw"
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             style={{
               width: '100%',
               height: 'auto',
