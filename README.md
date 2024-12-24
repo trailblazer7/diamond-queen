@@ -11,7 +11,7 @@ The deployed version can be found at [`diamond-queen.vercel.app`](https://diamon
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/diamond-queen.git
+git clone https://github.com/trailblazer7/diamond-queen.git
 cd diamond-queen
 npm install
 ```
